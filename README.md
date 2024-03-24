@@ -22,4 +22,4 @@ This project was done by Olukosi Ismaila Bamidele as a prerequisite for earning 
 5. I believe I can implement these and overcome my challenges as I learn further in future.
 
 
-- ![GitHub Remote URL](media/images/SPL Token Minter WS.png)
+- ![GitHub Remote URL](media/images/SPL%20Token%20Minter%20WS.png)
